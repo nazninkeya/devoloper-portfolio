@@ -13,6 +13,7 @@ h1{
 }
 section{
     display: flex;padding-left: 30px;
+    margin-bottom: 100px;
 }
 .floatRight{
     float:right;margin-left:20px
