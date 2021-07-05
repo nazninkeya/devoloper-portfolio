@@ -11,7 +11,7 @@ h1{
 .half-width img{
     width: 70%;
 }
-section{
+.flexible-container{
     display: flex;padding-left: 30px;
     margin-bottom: 100px;
 }
@@ -32,3 +32,16 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
 }
+
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%px;
+    margin-right: 1px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px goldenrod;
+}
+
+}
+
